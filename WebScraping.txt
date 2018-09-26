@@ -1,0 +1,3 @@
+Basics of Web Scraping
+
+Here I have done the Single page Web Scraping on website "Alexa.com" and later on will run some models on the scraped data.
