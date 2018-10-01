@@ -1,3 +1,9 @@
-Basics of Web Scraping
+File Enclosures
+
+1. Basics of Web Scraping
 
 Here I have done the Single page Web Scraping on website "Alexa.com" and later on will run some models on the scraped data.
+
+2. Logistic Regression
+
+I run the Logit Model on the data that I already extract from "alexa.com" by web scraping.
