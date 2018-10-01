@@ -88,5 +88,5 @@ table(actualvalue=training_set$Time_Spent, Predictedvalue= response_training>0.1
 Accuracy_train= (3+34)/(3+34+2+1)
 Accuracy_train
 
-# Now we can say that: Yes we can increase the time spent by customers on our page
-  by focusing on these two parameters : DailyPageViews, Sitelink.
+## Now we can say that: Yes we can increase the time spent by customers on our page
+   by focusing on these two parameters : DailyPageViews, Sitelink.
