@@ -4,6 +4,9 @@ File Enclosures
 
 Here I have done the Single page Web Scraping on website "Alexa.com" and later on will run some models on the scraped data.
 
-2. Logistic Regression
+2. Logit Model
 
 I run the Logit Model on the data that I already extract from "alexa.com" by web scraping.
+
+3. Linear Model
+I run the Linear Model on the data that I already extract from "alexa.com" by web scraping.
