@@ -4,8 +4,7 @@
 library(dplyr)
 
 # Set the Path for data
-setwd("H:\\Data Science\\Data Science\\R\\Projects\\Alexa")
-getwd()
+setwd("____")
 dataset<- read.csv("Alexa Top Sites.csv")
 View(dataset)
 
